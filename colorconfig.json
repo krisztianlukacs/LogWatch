@@ -1,0 +1,69 @@
+{
+  "strings": [
+    {
+      "text": "ERROR",
+      "color": "red"
+    },
+    {
+      "text": "WARNING",
+      "color": "light red"
+    },
+    {
+      "text": "INFO",
+      "color": "green"
+    },
+    {
+      "text": "DEBUG",
+      "color": "blue"
+    },
+    {
+      "text" : "USD",
+      "color": "yellow"
+    },
+    {
+      "text" : "WAIT",
+      "color": "yellow"
+    },
+    {
+      "text" : "SKIP",
+      "color": "yellow"
+    },
+    {
+      "text" : "COIN",
+      "color": "bold italic yellow on red blink"
+    },
+    {
+      "text" : "NEGATIVE",
+      "color": "white on red"
+    },
+    {
+      "text" : "POSITIVE",
+      "color": "black on green"
+    },
+    {
+      "text" : "---",
+      "color": "gray"
+    },
+    {
+      "text" : "LONG",
+      "color": "yellow"
+    },
+    {
+      "text" : "SHORT",
+      "color": "yellow"
+    },
+    {
+      "text" : "OPEN",
+      "color": "yellow"
+    },
+    {
+      "text" : "CLOSE",
+      "color": "yellow"
+    },
+    {
+      "text" : "ACTION",
+      "color": "bold yellow on blue"
+    }
+
+  ]
+}
